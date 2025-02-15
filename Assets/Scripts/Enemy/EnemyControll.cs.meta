@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a4e4be353f596094aae09eecea92dc6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HealthBar: {instanceID: 0}
+  - Health: {instanceID: 0}
+  - Shield: {instanceID: 0}
+  - DmgPopup: {instanceID: 0}
+  - Death: {instanceID: 0}
+  - Main: {instanceID: 0}
+  - ManaOrb: {instanceID: 0}
+  - Coin: {instanceID: 0}
+  - roomTemplates: {instanceID: 0}
+  - InterFace: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
